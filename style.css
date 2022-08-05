@@ -98,6 +98,7 @@ nav ul li:hover{
     height: 90vh;
     display: flex;
     background-size: cover;
+    align-items: center;
 }
 .text{
     padding-top: 6rem;
